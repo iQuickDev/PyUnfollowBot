@@ -1,0 +1,6 @@
+username: "un"
+password: "pw"
+iteration_count: 10
+cycle_unfollow_count: 5
+iteration_delay: 2
+cycle_delay: 2
